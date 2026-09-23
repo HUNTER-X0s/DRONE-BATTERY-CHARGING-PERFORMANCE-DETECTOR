@@ -1,0 +1,10 @@
+{
+  "name": "Remix Battery Charging Performance \u0026 Diagnosis System",
+  "description": "A professional web application that uses a camera to automatically detect digital meters during drone-battery charging, record timestamped readings, calculate 1% transitions, analyze performance, and generate Excel diagnosis reports.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
